@@ -1,0 +1,35 @@
+{
+  "version": 1790864675,
+  "updated": "2026-10-01 15:24",
+  "settings": {
+    "displaySeconds": 20,
+    "intervalSeconds": 300,
+    "interstitialSeconds": 6,
+    "showOnChannelChange": true,
+    "zapCooldownSeconds": 180,
+    "syncMinutes": 60
+  },
+  "ads": [
+    {
+      "id": "ad_tievault_01",
+      "name": "ad_tievault_01",
+      "type": "image",
+      "url": "ad_tievault_01.png",
+      "weight": 1
+    },
+    {
+      "id": "ad_tievault_02",
+      "name": "ad_tievault_02",
+      "type": "image",
+      "url": "ad_tievault_02.png",
+      "weight": 1
+    },
+    {
+      "id": "ad_tievault_03",
+      "name": "ad_tievault_03",
+      "type": "image",
+      "url": "ad_tievault_03.png",
+      "weight": 1
+    }
+  ]
+}
