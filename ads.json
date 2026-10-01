@@ -1,6 +1,6 @@
 {
-  "version": 1790864820,
-  "updated": "2026-10-01 15:27",
+  "version": 1790868050,
+  "updated": "2026-10-01 16:20",
   "settings": {
     "mode": "interstitial",
     "displaySeconds": 20,
@@ -11,6 +11,20 @@
     "syncMinutes": 60
   },
   "ads": [
+    {
+      "id": "ad_hgamedia_01",
+      "name": "ad_hgamedia_01",
+      "type": "image",
+      "url": "ad_hgamedia_01.jpg",
+      "weight": 1
+    },
+    {
+      "id": "ad_izzysarcade_01",
+      "name": "ad_izzysarcade_01",
+      "type": "image",
+      "url": "ad_izzysarcade_01.jpg",
+      "weight": 1
+    },
     {
       "id": "ad_tievault_01",
       "name": "ad_tievault_01",
