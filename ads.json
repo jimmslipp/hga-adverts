@@ -1,6 +1,6 @@
 {
-  "version": 1790868050,
-  "updated": "2026-10-01 16:20",
+  "version": 1791816193,
+  "updated": "2026-10-12 16:43",
   "settings": {
     "mode": "interstitial",
     "displaySeconds": 20,
@@ -23,27 +23,6 @@
       "name": "ad_izzysarcade_01",
       "type": "image",
       "url": "ad_izzysarcade_01.jpg",
-      "weight": 1
-    },
-    {
-      "id": "ad_tievault_01",
-      "name": "ad_tievault_01",
-      "type": "image",
-      "url": "ad_tievault_01.png",
-      "weight": 1
-    },
-    {
-      "id": "ad_tievault_02",
-      "name": "ad_tievault_02",
-      "type": "image",
-      "url": "ad_tievault_02.png",
-      "weight": 1
-    },
-    {
-      "id": "ad_tievault_03",
-      "name": "ad_tievault_03",
-      "type": "image",
-      "url": "ad_tievault_03.png",
       "weight": 1
     }
   ]
